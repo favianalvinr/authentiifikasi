@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1762334588032,
+      "name": "favian",
+      "email": "favianalvinramadhani@gmail.com",
+      "password": "$2b$10$PcEzmydlW5ydbaIRcSlwRO5joHnzfEvAbnXanNZ9q5LKzHZe4uyjK"
+    },
+    {
+      "id": 1762345722224,
+      "name": "favian alvin ",
+      "email": "mark.bennett@example.com",
+      "password": "$2b$10$FCBi32tFsjCsSPeguVWTDeV0v7rk5PF4SiOvAUNgkBoYAKzVxqapO"
+    }
+  ],
+  "items": [
+    {
+      "id": 1762350783976,
+      "title": "haloo",
+      "description": "testing"
+    }
+  ]
+}
